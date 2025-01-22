@@ -1,1 +1,3 @@
-Flask + Python project
+WORK IN PROGRESS!
+
+Blog using Flask
